@@ -1,0 +1,112 @@
+{
+  "expenses": [
+    {
+      "_id": "1",
+      "description": "Grocery Shopping",
+      "amount": 87.45,
+      "category": "Food",
+      "date": "2025-04-10",
+      "createdAt": "2025-04-10T00:00:00.000Z",
+      "updatedAt": "2025-04-10T00:00:00.000Z"
+    },
+    {
+      "_id": "2",
+      "description": "Monthly Rent",
+      "amount": 1200,
+      "category": "Housing",
+      "date": "2025-04-01",
+      "createdAt": "2025-04-01T00:00:00.000Z",
+      "updatedAt": "2025-04-01T00:00:00.000Z"
+    },
+    {
+      "_id": "3",
+      "description": "Netflix Subscription",
+      "amount": 15.99,
+      "category": "Entertainment",
+      "date": "2025-04-05",
+      "createdAt": "2025-04-05T00:00:00.000Z",
+      "updatedAt": "2025-04-05T00:00:00.000Z"
+    },
+    {
+      "_id": "6e3cad6c-7073-4c0d-966a-961eec6c65c2",
+      "description": "Grocery",
+      "amount": 120,
+      "category": "Food",
+      "date": "2025-04-14",
+      "createdAt": "2025-04-14T09:03:37.506Z",
+      "updatedAt": "2025-04-14T09:03:37.506Z"
+    },
+    {
+      "_id": "9a7a3ae1-1db5-48c9-8129-c4450d16d179",
+      "description": "Grocery",
+      "amount": 120,
+      "category": "Food",
+      "date": "2025-04-14",
+      "createdAt": "2025-04-14T09:03:40.690Z",
+      "updatedAt": "2025-04-14T09:03:40.690Z"
+    },
+    {
+      "_id": "aab671b4-9763-4609-857f-b83526ea08c8",
+      "description": "Grocery",
+      "amount": 120,
+      "category": "Food",
+      "date": "2025-04-14",
+      "createdAt": "2025-04-14T09:04:08.918Z",
+      "updatedAt": "2025-04-14T09:04:08.918Z"
+    },
+    {
+      "_id": "6c864825-6e4a-481b-a362-fc57d6ac8625",
+      "description": "100",
+      "amount": 100,
+      "category": "Food",
+      "date": "2025-04-14",
+      "createdAt": "2025-04-14T09:11:30.562Z",
+      "updatedAt": "2025-04-14T09:11:30.562Z"
+    },
+    {
+      "_id": "3c1c743f-5f3c-4b09-af6a-55f5ab8d11c5",
+      "description": "Grocery",
+      "amount": 200,
+      "category": "Food",
+      "date": "2025-04-14",
+      "createdAt": "2025-04-14T09:11:55.735Z",
+      "updatedAt": "2025-04-14T09:11:55.735Z"
+    },
+    {
+      "_id": "f7964bf8-ed95-4adc-98ab-e01df5e0e3f3",
+      "description": "dsadasdsa",
+      "amount": 120,
+      "category": "Food",
+      "date": "2025-04-14",
+      "createdAt": "2025-04-14T09:13:31.236Z",
+      "updatedAt": "2025-04-14T09:13:31.236Z"
+    },
+    {
+      "_id": "3c45f260-f48d-4de4-9106-aa5b7a1fbfbd",
+      "description": "Test",
+      "amount": 120,
+      "category": "Transportation",
+      "date": "2025-04-14",
+      "createdAt": "2025-04-14T09:17:43.544Z",
+      "updatedAt": "2025-04-14T09:17:43.545Z"
+    },
+    {
+      "_id": "023a023a-65b9-4d3c-8c54-87002ea7b03a",
+      "description": "Kwekwek",
+      "amount": 50,
+      "category": "Other",
+      "date": "2025-04-14",
+      "createdAt": "2025-04-14T09:19:18.653Z",
+      "updatedAt": "2025-04-14T09:19:18.659Z"
+    },
+    {
+      "_id": "9d05c3c0-ed66-4dfe-b86c-2a20e60b6a52",
+      "description": "Cinema",
+      "amount": 700,
+      "category": "Entertainment",
+      "date": "2025-04-14",
+      "createdAt": "2025-04-14T09:29:23.940Z",
+      "updatedAt": "2025-04-14T09:29:23.942Z"
+    }
+  ]
+}
